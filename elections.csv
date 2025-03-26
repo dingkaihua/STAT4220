@@ -1,0 +1,179 @@
+Year,Candidate,Party,Popular vote,%,Result
+1788,George Washington,Independent,43782.0,100.0,win
+1788,John Adams,Federalist,0.0,0.0,loss
+1788,John Jay,Federalist,0.0,0.0,loss
+1788,Robert H. Harrison,Federalist,0.0,0.0,loss
+1788,John Rutledge,Federalist,0.0,0.0,loss
+1788,John Hancock,Federalist,0.0,0.0,loss
+1788,George Clinton,Anti-Administration,0.0,0.0,loss
+1788,Samuel Huntington,Federalist,0.0,0.0,loss
+1788,John Milton,Federalist,0.0,0.0,loss
+1788,James Armstrong,Federalist,0.0,0.0,loss
+1788,Benjamin Lincoln,Federalist,0.0,0.0,loss
+1788,Edward Telfair,Anti-Administration,0.0,0.0,loss
+1792,George Washington,Independent,28579.0,100.0,win
+1792,John Adams,Federalist,0.0,0.0,loss
+1792,George Clinton,Democratic-Republican,0.0,0.0,loss
+1792,Thomas Jefferson,Democratic-Republican,0.0,0.0,loss
+1792,Aaron Burr,Democratic-Republican,0.0,0.0,loss
+1796,John Adams,Federalist,35726.0,53.4,win
+1796,Thomas Jefferson,Democratic-Republican,31115.0,46.6,loss
+1796,Thomas Pinckney,Federalist,0.0,0.0,loss
+1796,Aaron Burr,Democratic-Republican,0.0,0.0,loss
+1796,Samuel Adams,Democratic-Republican,0.0,0.0,loss
+1796,Oliver Ellsworth,Federalist,0.0,0.0,loss
+1796,George Clinton,Democratic-Republican,0.0,0.0,loss
+1796,John Jay,Federalist,0.0,0.0,loss
+1796,James Iredell,Federalist,0.0,0.0,loss
+1796,George Washington,Independent,0.0,0.0,loss
+1796,John Henry,Democratic-Republican,0.0,0.0,loss
+1796,Samuel Johnston,Federalist,0.0,0.0,loss
+1796,Charles Cotesworth Pinckney,Federalist,0.0,0.0,loss
+1800,Thomas Jefferson,Democratic-Republican,41330.0,61.4,win
+1800,John Adams,Federalist,25952.0,38.6,loss
+1800,John Jay,Federalist,0.0,0.0,loss
+1804,Thomas Jefferson,Democratic-Republican,104110.0,72.8,win
+1804,Charles Cotesworth Pinckney,Federalist,38919.0,27.2,loss
+1808,James Madison,Democratic-Republican,124732.0,64.7,win
+1808,John Langdon,Democratic-Republican,0.0,0.0,loss
+1808,Charles Cotesworth Pinckney,Federalist,62431.0,32.4,loss
+1808,George Clinton,Democratic-Republican,0.0,0.0,loss
+1808,James Monroe,Democratic-Republican,0.0,0.0,loss
+1812,James Madison,Democratic-Republican,140431.0,50.4,win
+1812,DeWitt Clinton,Democratic-Republican/Federalist,132781.0,47.6,loss
+1812,Elbridge Gerry,Democratic-Republican/Federalist,0.0,0.0,loss
+1816,James Monroe,Democratic-Republican,76592.0,68.2,win
+1816,Rufus King,Federalist,34740.0,30.9,loss
+1816,James Ross,Federalist,0.0,0.0,loss
+1816,John Marshall,Federalist,0.0,0.0,loss
+1816,Robert Goodloe Harper,Federalist,0.0,0.0,loss
+1820,James Monroe,Democratic-Republican,87343.0,80.6,win
+1820,Richard Stockton (F),Federalist,0.0,0.0,loss
+1820,Daniel Rodney (F),Federalist,0.0,0.0,loss
+1820,Robert Goodloe Harper (F),Federalist,0.0,0.0,loss
+1820,John Quincy Adams,Federalist,0.0,0.0,loss
+1824,John Quincy Adams,Democratic-Republican (Adams faction),113122.0,30.9,loss
+1824,Andrew Jackson,Democratic-Republican (Jackson faction),151271.0,41.4,win
+1824,William H. Crawford,Democratic-Republican (Crawford faction),40856.0,11.2,loss
+1824,Henry Clay,Democratic-Republican (Clay faction),47531.0,13.0,loss
+1828,Andrew Jackson,Democratic,642553.0,56.0,win
+1828,John Quincy Adams,National Republican,500897.0,43.6,loss
+1832,Andrew Jackson,Democratic,701780.0,54.2,win
+1832,Henry Clay,National Republican,484205.0,37.4,loss
+1832,William Wirt,Anti-Masonic,100715.0,7.8,loss
+1836,Martin Van Buren,Democratic,763291.0,50.8,win
+1836,William Henry Harrison,Whig,549907.0,36.6,loss
+1836,Hugh L. White,Whig,146107.0,9.7,loss
+1836,Daniel Webster,Whig,41201.0,2.7,loss
+1840,William Henry Harrison,Whig,1275390.0,52.9,win
+1840,Martin Van Buren,Democratic,1128854.0,46.8,loss
+1844,James K. Polk,Democratic,1339494.0,49.5,win
+1844,Henry Clay,Whig,1300004.0,48.1,loss
+1848,Zachary Taylor,Whig,1361393.0,47.3,win
+1848,Lewis Cass,Democratic,1223460.0,42.5,loss
+1852,Franklin Pierce,Democratic,1607510.0,50.8,win
+1852,Winfield Scott,Whig,1386942.0,43.9,loss
+1856,James Buchanan,Democratic,1836072.0,45.3,win
+1856,John C. Frémont,Republican,1342345.0,33.1,loss
+1856,Millard Fillmore,American,873053.0,21.6,loss
+1860,Abraham Lincoln,Republican,1865908.0,39.8,win
+1860,John C. Breckinridge,Democratic (Southern),848019.0,18.1,loss
+1860,John Bell,Constitutional Union,590901.0,12.6,loss
+1860,Stephen A. Douglas,Democratic (Northern),1380202.0,29.5,loss
+1864,Abraham Lincoln (R),National Union,2218388.0,55.0,win
+1864,George B. McClellan,Democratic,1812807.0,45.0,loss
+1868,Ulysses S. Grant,Republican,3013650.0,52.7,win
+1868,Horatio Seymour,Democratic,2708744.0,47.3,loss
+1872,Ulysses S. Grant,Republican,3598235.0,55.6,win
+1872,Thomas A. Hendricks,Democratic,2834761.0,43.8,loss
+1876,Rutherford B. Hayes,Republican,4034142.0,47.9,win
+1876,Samuel J. Tilden,Democratic,4286808.0,50.9,loss
+1880,James A. Garfield,Republican,4446158.0,48.3,win
+1880,Winfield Scott Hancock,Democratic,4444260.0,48.3,loss
+1884,Grover Cleveland,Democratic,4914482.0,48.9,win
+1884,James G. Blaine,Republican,4856903.0,48.3,loss
+1888,Benjamin Harrison,Republican,5443892.0,47.8,win
+1888,Grover Cleveland,Democratic,5534488.0,48.6,loss
+1892,Grover Cleveland,Democratic,5553898.0,46.0,win
+1892,Benjamin Harrison,Republican,5190819.0,43.0,loss
+1892,James B. Weaver,Populist,1026595.0,8.5,loss
+1896,William McKinley,Republican,7111607.0,51.0,win
+1896,William Jennings Bryan,Democratic/Populist,6509052.0,46.7,loss
+1900,William McKinley,Republican,7228864.0,51.6,win
+1900,William Jennings Bryan,Democratic,6370932.0,45.5,loss
+1904,Theodore Roosevelt,Republican,7630457.0,56.4,win
+1904,Alton B. Parker,Democratic,5083880.0,37.6,loss
+1908,William Howard Taft,Republican,7678335.0,51.6,win
+1908,William Jennings Bryan,Democratic,6408979.0,43.0,loss
+1912,Woodrow Wilson,Democratic,6296284.0,41.8,win
+1912,Theodore Roosevelt,Progressive,4122721.0,27.4,loss
+1912,William Howard Taft,Republican,3486242.0,23.2,loss
+1916,Woodrow Wilson,Democratic,9126868.0,49.2,win
+1916,Charles Evans Hughes,Republican,8548728.0,46.1,loss
+1920,Warren G. Harding,Republican,16144093.0,60.3,win
+1920,James M. Cox,Democratic,9139661.0,34.2,loss
+1924,Calvin Coolidge,Republican,15723789.0,54.0,win
+1924,John W. Davis,Democratic,8386242.0,28.8,loss
+1924,Robert M. La Follette,Progressive,4831706.0,16.6,loss
+1928,Herbert Hoover,Republican,21427123.0,58.2,win
+1928,Al Smith,Democratic,15015464.0,40.8,loss
+1932,Franklin D. Roosevelt,Democratic,22821277.0,57.4,win
+1932,Herbert Hoover,Republican,15761254.0,39.7,loss
+1936,Franklin D. Roosevelt,Democratic,27752648.0,60.8,win
+1936,Alf Landon,Republican,16681862.0,36.5,loss
+1940,Franklin D. Roosevelt,Democratic,27313945.0,54.7,win
+1940,Wendell Willkie,Republican,22347744.0,44.8,loss
+1944,Franklin D. Roosevelt,Democratic,25612916.0,53.4,win
+1944,Thomas E. Dewey,Republican,22017929.0,45.9,loss
+1948,Harry S. Truman,Democratic,24179347.0,49.6,win
+1948,Thomas E. Dewey,Republican,21991292.0,45.1,loss
+1948,Strom Thurmond,Dixiecrat,1175930.0,2.4,loss
+1952,Dwight D. Eisenhower,Republican,34075529.0,55.2,win
+1952,Adlai Stevenson II,Democratic,27375090.0,44.3,loss
+1956,Dwight D. Eisenhower,Republican,35579180.0,57.4,win
+1956,Adlai Stevenson II,Democratic,26028028.0,42.0,loss
+1960,John F. Kennedy,Democratic,34220984.0,49.7,win
+1960,Richard Nixon,Republican,34108157.0,49.6,loss
+1960,Harry F. Byrd,Southern Democratic,610409.0,0.4,loss
+1964,Lyndon B. Johnson,Democratic,43127041.0,61.0,win
+1964,Barry Goldwater,Republican,27175754.0,38.5,loss
+1968,Richard Nixon,Republican,31783783.0,43.4,win
+1968,Hubert Humphrey,Democratic,31271839.0,42.7,loss
+1968,George Wallace,American Independent,9901118.0,13.5,loss
+1972,Richard Nixon,Republican,47168710.0,60.7,win
+1972,George McGovern,Democratic,29173222.0,37.5,loss
+1972,John Hospers,Libertarian,3674.0,0.01,loss
+1976,Jimmy Carter,Democratic,40831881.0,50.1,win
+1976,Gerald Ford,Republican,39148634.0,48.0,loss
+1980,Ronald Reagan,Republican,43903230.0,50.7,win
+1980,Jimmy Carter,Democratic,35480115.0,41.0,loss
+1984,Ronald Reagan,Republican,54455472.0,58.8,win
+1984,Walter Mondale,Democratic,37577352.0,40.6,loss
+1988,George H. W. Bush,Republican,48886597.0,53.4,win
+1988,Michael Dukakis,Democratic,41809476.0,45.6,loss
+1992,Bill Clinton,Democratic,44909806.0,43.0,win
+1992,George H. W. Bush,Republican,39104550.0,37.4,loss
+1996,Bill Clinton,Democratic,47401185.0,49.2,win
+1996,Bob Dole,Republican,39197469.0,40.7,loss
+2000,George W. Bush,Republican,50456002.0,47.9,win
+2000,Al Gore,Democratic,50999897.0,48.4,loss
+2004,George W. Bush,Republican,62040610.0,50.7,win
+2004,John Kerry,Democratic,59028444.0,48.3,loss
+2008,Barack Obama,Democratic,69498516.0,52.9,win
+2008,John McCain,Republican,59948323.0,45.7,loss
+2012,Barack Obama,Democratic,65915795.0,51.1,win
+2012,Mitt Romney,Republican,60933504.0,47.2,loss
+2016,Donald Trump,Republican,62984828.0,46.1,win
+2016,Ron Paul (L),Ron Paul (L),124.0,0.01,loss
+2016,Hillary Clinton,Democratic,65853514.0,48.2,loss
+2016,Colin Powell,Republican (cast by Democratic electors),25.0,0.01,loss
+2016,John Kasich,Republican,2684.0,0.01,loss
+2016,Bernie Sanders,Democratic,108776.0,0.08,loss
+2020,Joe Biden,Democratic,81283501.0,51.3,win
+2020,Donald Trump,Republican,74223975.0,46.9,loss
+2024,Donald Trump,Republican,77302169.0,49.8,win
+2024,Kamala Harris,Democratic,75015834.0,48.3,loss
+2024,Jill Stein,Green,861141.0,0.5,loss
+2024,Robert F. Kennedy Jr.,American Independent,756377.0,0.5,loss
+2024,Chase Oliver,Libertarian,650142.0,0.4,loss
+2024,Other Candidates,Other,833975.0,0.5,loss
